@@ -9,11 +9,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-- Vi![Screenshot from 2023-11-12 23-31-55](https://github.com/Aseadd/StudentCourse/assets/48018471/c0900b3c-ce80-4a7b-ac0c-c91e2b08fa4d)
-![Screenshot from 2023-11-12 23-31-18](https://github.com/Aseadd/StudentCourse/assets/48018471/cb81766e-0e1a-4d6e-a7b2-576e2d05fac0)
-![Screenshot from 2023-11-12 23-31-28](https://github.com/Aseadd/StudentCourse/assets/48018471/19d3c656-ec60-495f-b7e7-7e041be962bf)
-![Screenshot from 2023-11-12 23-31-00](https://github.com/Aseadd/StudentCourse/assets/48018471/f7dccc11-6921-4ee1-87d3-e9ab1df1040e)
-sual Studio Code.
+- Visual Studio Code.
 
 ### Setup
 
@@ -67,15 +63,18 @@ sual Studio Code.
 
 ## Built With
 
-- **React:** JavaScript library.
-- **TypeScript:** Javascript with syntax for types
-- **Redux Toolkit:** State management library.
-- **Tailwind CSS:** Styling components
-- **Material UI:** FOr designing Components.
+- **Node JS:** Backend enviromnent.
+- **TypeORM:** An ORM for Typescript and React
+- **MySQL:** Database.
 
 ## 🌎 Live Demo:
 
 - [Unavailable for now]
+- Until then enjoy these screenshots
+ ![Screenshot from 2023-11-12 23-31-55](https://github.com/Aseadd/StudentCourse/assets/48018471/c0900b3c-ce80-4a7b-ac0c-c91e2b08fa4d)
+![Screenshot from 2023-11-12 23-31-18](https://github.com/Aseadd/StudentCourse/assets/48018471/cb81766e-0e1a-4d6e-a7b2-576e2d05fac0)
+![Screenshot from 2023-11-12 23-31-28](https://github.com/Aseadd/StudentCourse/assets/48018471/19d3c656-ec60-495f-b7e7-7e041be962bf)
+![Screenshot from 2023-11-12 23-31-00](https://github.com/Aseadd/StudentCourse/assets/48018471/f7dccc11-6921-4ee1-87d3-e9ab1df1040e)
 
 ## Authors
 
