@@ -25,6 +25,18 @@ router.post('/api/grades', async (req: Request, res: Response) => {
     courseId,
   } = req.body;
 
+  // validate incoming data 
+  if(!grade) {
+    return res.status(400).send({ message: 'grade is required' });
+  }
+  if(!studentId) {
+    return res.status(400).send({ message: 'studentId is required' });
+  }
+  if(!courseId) {
+    return res.status(400).send({ message: 'courseId is required' });
+  }
+  
+
   const gradeRegistory = await AppDataSource.getRepository(Grade).create(req.body);
   const results = await AppDataSource.getRepository(Grade).save(gradeRegistory);
   return res.send(results);
